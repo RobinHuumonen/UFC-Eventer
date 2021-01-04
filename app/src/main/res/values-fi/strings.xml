@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UFC tapahtumat</string>
+    <string name="event_name">UFC NNN</string>
+    <string name="fighter1_name">Ottelija1</string>
+    <string name="fighter2_name">Ottelija2</string>
+    <string name="VS">VS</string>
+    <string name="no_event">Ei tapahtumaa</string>
+    <string name="upcoming_events" translatable="false">Tulevat tapahtumat</string>
+    <string name="fights">Ottelut</string>
+    <string name="scorecard">Tulokset</string>
+    <string name="draw">Tasapeli</string>
+    <string name="fighter1_record">n-n-n</string>
+    <string name="fighter2_record">n-n-n</string>
+    <string name="fighter1_wins">Ottelija1 voittaa</string>
+    <string name="fighter2_wins">Ottelija2 voittaa</string>
+    <string name="score10">10</string>
+    <string name="score9">9</string>
+    <string name="score8">8</string>
+    <string name="score7">7</string>
+    <string name="Round1">Erä 1</string>
+    <string name="R1">Erä 1</string>
+    <string name="scoreHint">7–10</string>
+    <string name="R2">Erä 2</string>
+    <string name="R3">Erä 3</string>
+    <string name="R4">Erä 4</string>
+    <string name="R5">Erä 5</string>
+    <string name="savePicks">Tallenna pisteytys</string>
+    <string name="viewPicks">Tarkastele pisteytyksiä</string>
+    <string name="date">00/00/0000</string>
+    <string name="wins">voittaa</string>
+    <string name="picks">Pisteytykset</string>
+    <string name="updatePicks">PÄIVITÄ PISTEYTYS</string>
+</resources>

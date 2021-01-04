@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UFC Eventer</string>
+    <string name="event_name">UFC NNN</string>
+    <string name="fighter1_name">Fighter1</string>
+    <string name="fighter2_name">Fighter2</string>
+    <string name="VS">VS</string>
+    <string name="no_event">No event</string>
+    <string name="upcoming_events" translatable="false">Upcoming events</string>
+    <string name="fights">Fights</string>
+    <string name="scorecard">Scorecard</string>
+    <string name="draw">Draw</string>
+    <string name="fighter1_record">n-n-n</string>
+    <string name="fighter2_record">n-n-n</string>
+    <string name="fighter1_wins">Fighter1 wins</string>
+    <string name="fighter2_wins">Fighter2 wins</string>
+    <string name="score10">10</string>
+    <string name="score9">9</string>
+    <string name="score8">8</string>
+    <string name="score7">7</string>
+    <string name="Round1">Round 1</string>
+    <string name="R1">Round 1</string>
+    <string name="scoreHint">7–10</string>
+    <string name="R2">Round 2</string>
+    <string name="R3">Round 3</string>
+    <string name="R4">Round 4</string>
+    <string name="R5">Round 5</string>
+    <string name="savePicks">Save picks</string>
+    <string name="viewPicks">view picks</string>
+    <string name="date">00/00/0000</string>
+    <string name="wins">wins</string>
+    <string name="picks">Picks</string>
+    <string name="updatePicks">UPDATE PICKS</string>
+</resources>
